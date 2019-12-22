@@ -1,5 +1,5 @@
-
-def my_each(collection) do |i|
+    words = ['hi', 'hello', 'bye', 'goodbye']
+def my_each(words) do |words,i|
      i 
   while 
 end
